@@ -1,0 +1,2 @@
+# TianLiangSpider4YuQing
+天亮舆情系统之天亮舆情采集器，基于master/slave结构开发的分布采集器系统
